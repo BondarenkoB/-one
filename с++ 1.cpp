@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     string name = "The war and the peace";
     string author = "L.N. Tolstoj";
     string publisher = "Piter";
