@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     double R1, R2, R3;
     cout << "print value R1, R2, R3: ";
     cin >> R1 >> R2 >> R3;
